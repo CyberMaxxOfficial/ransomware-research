@@ -1,4 +1,4 @@
-Victim,Group,Date
+Organization,Threat Actor,Date
 www.metlife.com,ransomhub,12/31/2024
 Cogitis,dragonforce,12/31/2024
 moh.gov.vn,funksec,12/31/2024
@@ -3670,3 +3670,4 @@ credihealth.com,killsec,10/1/2024
 ,,
 ,,
 ,,
+
